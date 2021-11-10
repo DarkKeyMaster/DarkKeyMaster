@@ -6,7 +6,7 @@ I’m interested in breaking Systems and Codes 👾(Only for education purposes�
 C, Java, C#, SQL, Script-Languages(HTML, CSS, JAVA-Script, PHP) 👨‍💻
 
 ## Currently working on:
-a Password_Breaking_Application or PBA ☠️
+Password_Breaking_Application or PBA ☠️
 
 <!---
 DarkKeyMaster/DarkKeyMaster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
