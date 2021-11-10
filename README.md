@@ -1,7 +1,12 @@
-                                             Hi, I’m @DarkKeyMaster 🕴🏼
-                 I’m interested in breaking Systems and Codes 👾(Only for education purposes👻)
-    I’m working with C, Java, C#, SQL(Database Programming), Script-Languages(HTML, CSS, JAVA-Script, PHP) 👨‍💻
-                         Currently working on a Password_Breaking_Application or PBA ☠️
+## Hi, I'm DarkKeyMaster 🕴🏼
+
+### IT Specialist for Application Development in Training (Year 2/3)
+I’m interested in breaking Systems and Codes 👾(Only for education purposes👻)
+## I’m working with:
+C, Java, C#, SQL, Script-Languages(HTML, CSS, JAVA-Script, PHP) 👨‍💻
+
+## Currently working on:
+a Password_Breaking_Application or PBA ☠️
 
 <!---
 DarkKeyMaster/DarkKeyMaster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
