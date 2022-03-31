@@ -4,6 +4,8 @@
 > ##### **I’m interested in breaking Systems and Codes**
 ## Learning at the momment:
 
+> Cybersecurity & Hacking
+
 > 3D game Development in [<img src="https://www.pcinvasion.com/wp-content/uploads/2018/09/Humble-Bundle-Unity-Logo-800x400.png" width="50px">][Unity]
 
 ## I’m working with:
@@ -12,9 +14,8 @@
 > Script-Languages(HTML, CSS, JAVA-Script, PHP)
 
 ## Currently working on:
-> Password_Breaking_Application or PBA ☠️
+> New Projects soon...
 
-> Working on NadeBot with [GruenHub] and [Montrii]
 
 <!---
 DarkKeyMaster/DarkKeyMaster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,5 +27,3 @@ You can click the Preview link to take a look at your changes.
 [C#]: https://docs.microsoft.com/de-de/dotnet/csharp/programming-guide/interop/example-com-class
 [MySQL]: https://www.mysql.com/
 
-[GruenHub]: https://github.com/GruenHub
-[Montrii]: https://github.com/Montrii/Montrii
