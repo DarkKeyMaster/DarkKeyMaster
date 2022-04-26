@@ -1,7 +1,7 @@
 ## Hi, I'm DarkKeyMaster 🕴🏼
 
 ### IT Specialist for Application Development in Training (Year 2/3)
-> ##### **I’m interested in breaking Systems and Codes**
+> ##### **I’m interested in develope Application, breaking Systems and Codes**
 ## Learning at the momment:
 
 > Cybersecurity & Hacking
