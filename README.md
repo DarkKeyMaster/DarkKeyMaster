@@ -11,9 +11,7 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/DarkKeyMaster.png" alt="TryHackMe">
 
 ## I’m working with:
-> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="30px">  [<img src="https://banner2.cleanpng.com/20180715/gzu/kisspng-java-development-kit-software-development-kit-comp-programming-language-icon-5b4b9cb1e74f20.0073080715316819699475.jpg" width="50px">][Java]  [<img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="30px">][C#]  [<img src="https://banner2.cleanpng.com/20180803/abq/kisspng-mysql-cluster-database-management-system-%E4%B8%93-%E9%A2%98-%E5%92%96-%E5%95%A1-%E4%B8%8E-%E4%BB%A3-%E7%A0%81-5b640d8b2a2e53.6067051415332837231728.jpg" width="40px">][MySQL] [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/130px-HTML5_logo_and_wordmark.svg.png" width="50px">][HTML] 
-
-> Script-Languages( CSS, JAVA-Script, PHP)
+> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="30px">  [<img src="https://banner2.cleanpng.com/20180715/gzu/kisspng-java-development-kit-software-development-kit-comp-programming-language-icon-5b4b9cb1e74f20.0073080715316819699475.jpg" width="50px">][Java]  [<img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="30px">][C#]  [<img src="https://banner2.cleanpng.com/20180803/abq/kisspng-mysql-cluster-database-management-system-%E4%B8%93-%E9%A2%98-%E5%92%96-%E5%95%A1-%E4%B8%8E-%E4%BB%A3-%E7%A0%81-5b640d8b2a2e53.6067051415332837231728.jpg" width="40px">][MySQL] [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/130px-HTML5_logo_and_wordmark.svg.png" width="50px">][HTML] [<img src="https://icon-library.com/images/css-icon-png/css-icon-png-0.jpg" width="50">][CSS] [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg" width="50">][JAVASCRIPT] [<img src="https://pngset.com/images/php-php-logo-text-word-baseball-cap-hat-transparent-png-1581878.png" width="50">][PHP] [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" width="50">][REACT]
 
 ## Currently working on:
 > New Projects soon...
@@ -29,4 +27,7 @@ You can click the Preview link to take a look at your changes.
 [C#]: https://docs.microsoft.com/de-de/dotnet/csharp/programming-guide/interop/example-com-class
 [MySQL]: https://www.mysql.com/
 [HTML]: https://en.wikipedia.org/wiki/HTML5
-
+[CSS]: https://www.w3schools.com/css/css_intro.asp
+[JAVASCRIPT]: https://de.wikipedia.org/wiki/JavaScript#:~:text=JavaScript%20(kurz%20JS)%20ist%20eine,M%C3%B6glichkeiten%20von%20HTML%20zu%20erweitern.
+[PHP]: https://www.php.net/manual/de/intro-whatis.php
+[REACT]: https://de.wikipedia.org/wiki/React
