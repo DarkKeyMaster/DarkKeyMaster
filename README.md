@@ -10,6 +10,11 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/DarkKeyMaster.png" alt="TryHackMe">
 
+![image](https://user-images.githubusercontent.com/91887838/197467834-c9134d0f-ee7b-47c3-a3ea-8dea951849dc.png)
+
+![image](https://user-images.githubusercontent.com/91887838/197467938-a590268e-7caa-4f0c-b3ed-a19beb2df389.png)
+
+
 ## I’m working with:
 > <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" width="50px">  [<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" width="50px">][Java]  [<img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="40px">][C#]  [<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg" width="50px">][MySQL] [<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="50px">][HTML] [<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" width="50">][CSS] [<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="50">][JAVASCRIPT] [<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg" width="50">][PHP] [<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width="50">][REACT]
 
