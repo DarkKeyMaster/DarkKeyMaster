@@ -1,6 +1,6 @@
 ## Hi, I'm Dave
 
-### IT Specialist for Application Development in Training (Year 2/3)
+### IT Specialist for Application Development in Training (Year 3/3)
 > ##### **I’m interested in develope Application, breaking Systems and Codes**
 ## Learning at the moment:
 
