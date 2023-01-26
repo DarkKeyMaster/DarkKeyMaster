@@ -10,9 +10,7 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/DarkKeyMaster.png" alt="TryHackMe">
 
-![image](https://user-images.githubusercontent.com/91887838/197467834-c9134d0f-ee7b-47c3-a3ea-8dea951849dc.png)
 
-![image](https://user-images.githubusercontent.com/91887838/197467938-a590268e-7caa-4f0c-b3ed-a19beb2df389.png)
 
 
 ## I’m working with:
