@@ -9,6 +9,7 @@
 > Cybersecurity & Hacking
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/DarkKeyMaster.png" alt="TryHackMe">
+<script src="https://tryhackme.com/badge/1035182"></script>
 
 
 
